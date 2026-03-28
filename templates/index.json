@@ -29,6 +29,7 @@
         },
         "slide_TddqxQ": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "overlay_color": "#000000",
             "overlay_opacity": 10,
@@ -90,9 +91,13 @@
         "border_color": "border-primary",
         "border_opacity": 100,
         "container_max_width": "",
-        "products": [],
+        "products": [
+          "nysc-camp-kit-e-don-do-bundle",
+          "nysc-camp-kit-bundle",
+          "nysc-camp-kit-odogwu-bundle"
+        ],
         "collection": "latest",
-        "limit": 8,
+        "limit": 3,
         "recommended_mode": true,
         "recommended_mode_intent": "related",
         "header_title": "Featured Products",
