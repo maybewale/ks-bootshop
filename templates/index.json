@@ -120,6 +120,7 @@
     },
     "richtext_4miPYL": {
       "type": "richtext",
+      "disabled": true,
       "settings": {
         "bg_color": "bg-primary",
         "bg_opacity": 5,
@@ -227,6 +228,7 @@
         "collection_fQ9QDf",
         "collection_kRQqkR"
       ],
+      "disabled": true,
       "settings": {
         "bg_color": "bg-body",
         "bg_opacity": 100,
@@ -291,6 +293,7 @@
             "border_opacity": 10,
             "media_align_desktop": "",
             "media_border": "img-thumbnail",
+            "img": "shopify://shop_images/3.jpg",
             "img_orientation": "ratio-9x16",
             "video_ratio": "adapt",
             "video_autoplay": true,
