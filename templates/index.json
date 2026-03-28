@@ -294,7 +294,7 @@
             "media_align_desktop": "",
             "media_border": "img-thumbnail",
             "img": "shopify://shop_images/3.jpg",
-            "img_orientation": "ratio-9x16",
+            "img_orientation": "ratio-3x4",
             "video_ratio": "adapt",
             "video_autoplay": true,
             "video_loop": true,
