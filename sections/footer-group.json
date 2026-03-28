@@ -40,6 +40,7 @@
       "blocks": {
         "8b92bb0f-7aaa-4462-8660-b6a23bd9c31c": {
           "type": "menu",
+          "disabled": true,
           "settings": {
             "menu": "",
             "title_font_size": "fs-xl",
@@ -48,6 +49,7 @@
         },
         "79b0b9d4-1bf4-4490-a48e-94be1aecf12a": {
           "type": "menu",
+          "disabled": true,
           "settings": {
             "menu": "",
             "title_font_size": "fs-xl",
@@ -56,6 +58,7 @@
         },
         "7468602d-7e94-4bd5-9673-02b2f8269581": {
           "type": "menu",
+          "disabled": true,
           "settings": {
             "menu": "footer",
             "title_font_size": "fs-xl",
@@ -67,11 +70,11 @@
           "settings": {
             "title": "About us",
             "title_font_size": "fs-xl",
-            "description": "<p>Finish your Shopify store within days, not months. 15+ years of coding experience, 50k+ customers served!</p>",
-            "btn_primary_text": "Browse themes",
+            "description": "<p><br/>Your one-stop shop for NYSC camp essentials. No market runs, no stress — just order and show up ready. <strong>RC-9027409</strong></p>",
+            "btn_primary_text": "",
             "btn_primary_url": "https://www.kondasoft.com/collections/shopify-themes",
             "btn_primary_color": "btn-primary",
-            "btn_secondary_text": "Learn more",
+            "btn_secondary_text": "",
             "btn_secondary_url": "https://www.kondasoft.com/collections/shopify-themes",
             "btn_secondary_color": "btn-light-white"
           }
