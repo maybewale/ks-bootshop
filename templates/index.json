@@ -32,6 +32,7 @@
           "type": "slide",
           "settings": {
             "img_mobile": "shopify://shop_images/Screenshot_2026-03-28_224831.png",
+            "img_desktop": "shopify://shop_images/Screenshot_2026-03-28_224831.png",
             "overlay_color": "#000000",
             "overlay_opacity": 30,
             "overlay_blur": 0,
