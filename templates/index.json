@@ -28,15 +28,29 @@
             "btn_secondary_url": "https://www.google.com/maps/place/MhizWorld+Corpers+Corner/@6.6429403,3.3024777,17z/data=!3m1!4b1!4m6!3m5!1s0x103b9148f0571f17:0x832beae124def4be!8m2!3d6.642935!4d3.305058!16s%2Fg%2F11myn496x2?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
           }
         },
+        "slide_jwCHTN": {
+          "type": "slide",
+          "settings": {
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "overlay_blur": 0,
+            "subtitle": "",
+            "title": "Welcome to MhizWorld NYSC Camp Kit Store",
+            "description": "<p><strong>Your one-stop shop for NYSC camp kits and corper essentials.</strong></p>",
+            "btn_primary_text": "Primary button",
+            "btn_primary_url": "",
+            "btn_secondary_text": "Secondary button",
+            "btn_secondary_url": ""
+          }
+        },
         "slide_TddqxQ": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "overlay_color": "#000000",
             "overlay_opacity": 10,
             "overlay_blur": 2,
-            "subtitle": "Developed by KondaSoft",
-            "title": "Simple to Use, Easy to Customize",
+            "subtitle": "Welcome to MhizWorld NYSC Camp Kit Store",
+            "title": "Your one-stop shop for NYSC camp kits and corper essentials.",
             "description": "<p>Free Shopify Theme inspired by simplicity and elegance.</p>",
             "btn_primary_text": "Primary button",
             "btn_primary_url": "",
@@ -47,6 +61,7 @@
       },
       "block_order": [
         "slide_Q4UPQq",
+        "slide_jwCHTN",
         "slide_TddqxQ"
       ],
       "settings": {
